@@ -1,2 +1,2 @@
 # CC_Project1
-The adjective for this project is COLORFUL.
+The adjective I selected for this project is COLORFUL.
